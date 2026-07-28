@@ -31,7 +31,7 @@ const handleOpenInvitation = () => {
     <>
      {!open && (
         <CoverSection
-           onOpen={() => setOpen(handleOpenInvitation)}
+     onOpen={handleOpenInvitation}
         />
       )}
       <HeroSection/>
@@ -45,6 +45,7 @@ const handleOpenInvitation = () => {
       <Closing/>
       <Footer/>
       {open && <NavbarBottom />}
+
        <button
   onClick={() => {
     if (audioRef.current.paused) {

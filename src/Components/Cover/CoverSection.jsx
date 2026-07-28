@@ -4,7 +4,7 @@ import { Mail } from "lucide-react";
 
 import Couple from "../../assets/Img/Cover-TP14.png";
 import { useParams } from "react-router-dom";
-import Oranment2 from "../Hooks/Ornament2";
+
 
 
 const CoverSection = ({ onOpen }) => {
@@ -50,7 +50,7 @@ backdrop-blur-md
       <div className="relative z-10 flex min-h-screen items-center justify-center px-5 py-10">
       
         <div className="flex w-full max-w-md flex-col items-center text-center">
-  <Oranment2/>
+
           {/* Couple */}
           <div className="relative">
 
@@ -181,7 +181,7 @@ backdrop-blur-md
             hover:bg-yellow-600
             xs:px-6
             xs:py-3
-            font-serif"
+            font-serif z-30"
           >
             
               <Mail

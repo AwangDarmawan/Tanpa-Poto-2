@@ -5,7 +5,7 @@ export const encodeForShare = (text) => encodeURIComponent(text);
 export const generateInvitationLink = (name) =>
   // name ? `https://alpi-ndah-nikahflix.vercel.app/${name.toLowerCase()}` : "";
      name
-  ? `https://tema-adat-2.vercel.app/${encodeURIComponent(name)}`
+  ? `https://wedding-tp-2.vercel.app/${encodeURIComponent(name)}`
   : "";
 
 // generate teks undangan lengkap

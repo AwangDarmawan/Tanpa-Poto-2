@@ -49,7 +49,7 @@ const TurutMengundang = () => {
           grid
           gap-8
 
-          lg:grid-cols-2"
+          lg:grid-cols-1"
         >
           <FamilyCard
             title={DataFamily.groom.title}

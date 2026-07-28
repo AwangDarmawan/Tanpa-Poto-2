@@ -1,14 +1,16 @@
 import CountDown from "./CountDown";
 import { CalendarDays } from "lucide-react";
 import Couple from "../../assets/Img/Cover-TP14.png";
+import Oranment1 from "../Hooks/Oranment1";
 
 const HeroSection = () => {
   return (
-    <section id="hero" className="relative flex min-h-screen items-center justify-center overflow-hidden  px-4">
+    <section id="hero" className="relative overflow-hidden">
 
      
 
-      <div className="relative z-10 mx-auto flex w-full max-w-md flex-col items-center text-center">
+       <div className="relative z-10 mx-auto flex max-w-md flex-col items-center px-5 py-28">  
+        <Oranment1/>
 
         {/* Title */}
 

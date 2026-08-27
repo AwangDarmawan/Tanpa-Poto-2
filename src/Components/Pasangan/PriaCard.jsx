@@ -21,13 +21,13 @@ const PriaCard = () => {
       <h2
         className="
         mt-6
-        font-great
+        font-playfair
         text-[#D4A017]
 
         xs:text-3xl
         text-5xl"
       >
-        Ate Sopandi
+        M'Boy
       </h2>
 
       <button
@@ -45,7 +45,7 @@ const PriaCard = () => {
         text-white"
       >
         <FaInstagram size={18} />
-        ate sopandi
+        M'Boy
       </button>
 
       <p

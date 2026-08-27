@@ -21,7 +21,7 @@ const WanitaCard = () => {
       <h2
         className="
         mt-6
-        font-great
+        font-playfair
         text-[#D4A017]
 
         xs:text-3xl

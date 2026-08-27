@@ -45,16 +45,16 @@ const HeroSection = () => {
         <h1
           className="
           mt-3
-          font-great
+          font-playfair
           text-[#D4A017]
 
-          xs:text-4xl
-          xe:text-5xl
-          text-5xl
-          sm:text-6xl
-          md:text-7xl"
+          xs:text-3xl
+          xe:text-3xl
+          text-3xl
+          sm:text-3xl
+          md:text-5xl"
         >
-          Ate & Deliya
+            M'Boy & Deliya
         </h1>
 
         {/* Countdown */}

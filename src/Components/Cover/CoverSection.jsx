@@ -131,7 +131,7 @@ backdrop-blur-md
               sm:text-4xl
               font-bold"
             >
-              Ate & Deliya
+              M'Boy & Deliya
             </h1>
 
             <p

@@ -12,7 +12,7 @@ import Footer from '../Components/Footer'
 import CoverSection from '../Components/Cover/CoverSection'
 import NavbarBottom from '../Components/Navbar/NavbarBottom'
 
-import Lagu from "../assets/Musik/Ayat-Ayat Cinta.mp3"
+import Lagu from "../assets/Musik/LaguSunda.mp3"
 import { Volume2, VolumeX } from "lucide-react"
 
 function HomePage() {

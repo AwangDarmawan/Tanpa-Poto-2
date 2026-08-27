@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const weddingDate = new Date("2027-08-17T00:00:00");
+const weddingDate = new Date("2026-08-30T00:00:00");
 
 const CountDown = () => {
   const calculateTimeLeft = () => {
@@ -64,7 +64,7 @@ const CountDown = () => {
   ];
 
   return (
-    <div className="mt-3 grid grid-cols-4 gap-3 md:gap-5">
+    <div className="mt-3 grid grid-cols-4 gap-3 ">
       {countdown.map((item) => (
         <div
           key={item.label}

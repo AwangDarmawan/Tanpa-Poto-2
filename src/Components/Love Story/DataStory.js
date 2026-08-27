@@ -1,7 +1,7 @@
 const DataStory = [
   {
     id: 1,
-    year: "2022",
+    year: "2026",
     title: "Pertama Bertemu",
     description:
       "Awal pertemuan kami menjadi sebuah cerita sederhana yang penuh makna. Dari perkenalan singkat tumbuh rasa nyaman untuk saling mengenal lebih dekat.",
@@ -10,7 +10,7 @@ const DataStory = [
   },
   {
     id: 2,
-    year: "2024",
+    year: "2026",
     title: "Menjalin Hubungan",
     description:
       "Kami memutuskan untuk berjalan bersama, saling mendukung dalam setiap langkah, melewati suka maupun duka dengan penuh kesabaran.",
@@ -19,7 +19,7 @@ const DataStory = [
   },
   {
     id: 3,
-    year: "2027",
+    year: "2026",
     title: "Menuju Pernikahan",
     description:
       "Dengan izin Allah SWT serta doa dari keluarga dan sahabat, kami memutuskan untuk mengikat janji suci dalam sebuah pernikahan.",

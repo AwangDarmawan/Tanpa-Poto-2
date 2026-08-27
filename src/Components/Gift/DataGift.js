@@ -2,14 +2,14 @@ const DataGift = [
   {
     id: 1,
     bank: "Bank BCA",
-    accountNumber: "1234567890",
-    accountName: "Dilan Pratama",
+    accountNumber: "1832759061",
+    accountName: "Ate Sopandi",
   },
   {
     id: 2,
-    bank: "Bank Mandiri",
-    accountNumber: "9876543210",
-    accountName: "Milea Pratiwi",
+    bank: "Bank BCA",
+    accountNumber: "1832828313",
+    accountName: " Deliya Listanti",
   },
 ];
 

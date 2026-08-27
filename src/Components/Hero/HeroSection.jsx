@@ -54,7 +54,7 @@ const HeroSection = () => {
           sm:text-6xl
           md:text-7xl"
         >
-          Milea & Dilan
+          Ate & Deliya
         </h1>
 
         {/* Countdown */}
@@ -86,7 +86,7 @@ const HeroSection = () => {
         >
           <CalendarDays size={18} />
 
-          17 Agustus 2027
+         Minggu 30 Agustus 2026
         </button>
       </div>
     </section>

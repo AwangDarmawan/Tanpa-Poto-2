@@ -2,33 +2,32 @@ const DataEvent = [
   {
     id: 1,
     title: "Akad Nikah",
-    date: "Senin, 22 Maret 2027",
-    time: "09.00 WIB",
-    address: `Kediaman Mempelai Wanita
-Jl. Karet Pasar Baru Barat V No.92 RW.4, Karet Tengsin,
-Kecamatan Tanah Abang, Kota Jakarta Pusat,
-Daerah Khusus Ibukota Jakarta 10250`,
-    maps: "https://maps.google.com",
+    date: "Minggu, 30 Agustus 2026",
+    time: "08.00 WIB",
+    locationTitle: "Kediaman Mempelai Wanita",
+    address:
+      "Kp. Darungdung RT 03 RW 04, Desa Gudang, Kec. Cikalongkulon, Kab. Cianjur",
+    // maps: "https://maps.google.com",
   },
   {
     id: 2,
     title: "Resepsi",
-    date: "Senin, 22 Maret 2027",
+    date: "Minggu, 30 Agustus 2026",
     time: "10.00 WIB - Selesai",
-    address: `Kediaman Mempelai Wanita
-Jl. Karet Pasar Baru Barat V No.92 RW.4, Karet Tengsin,
-Kecamatan Tanah Abang, Kota Jakarta Pusat,
-Daerah Khusus Ibukota Jakarta 10250`,
-    maps: "https://maps.google.com",
+    locationTitle: "Kediaman Mempelai Wanita",
+    address:
+      "Kp. Darungdung RT 03 RW 04, Desa Gudang, Kec. Cikalongkulon, Kab. Cianjur",
+    // maps: "https://maps.google.com",
   },
   {
     id: 3,
-    title: "Ngunduh Mantu",
-    date: "Kamis, 22 April 2027",
-    time: "10.00 WIB",
-    address: `Kediaman Mempelai Pria
-Jl. KH Moh Musa`,
-    maps: "https://maps.google.com",
+    title: "kediaman pria",
+    date: "Sabtu, 29 Agustus 2026",
+    time: "08.00 WIB",
+    locationTitle: "Kediaman Mempelai Pria",
+    address:
+      "Kp. Halimun RT 01 RW 02, Desa Warudoyong, Kec. Cikalongkulon, Kab. Cianjur",
+    // maps: "https://maps.google.com",
   },
 ];
 

@@ -35,6 +35,7 @@ function Closing() {
         font-serif
         italic
         text-[#FFF8EE]
+        text-center
       "
     >
       Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila

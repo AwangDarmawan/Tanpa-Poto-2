@@ -2,20 +2,21 @@ const DataFamily = {
   groom: {
     title: "Keluarga  Pria",
     family: [
-      "Bapak Lorem Ipsum",
-      "Ibu Lorem Ipsum",
-      "Keluarga Besar Bapak Lorem & ibu Siti ipsum",
-      "Keluarga Besar Ibu Ipsum",
+      "Keluarga Besar Bapak Ujang Saepuloh",
+      "Bapak Hasanudin & Ibu Neneng",
+      "Bapak Endang",
+      "Ibu Murni",
     ],
   },
 
   bride: {
     title: "Keluarga  Wanita",
     family: [
-      "Bapak Dolor Sit",
-      "Ibu Amet",
-      "Keluarga Besar Bapak Dolor",
-      "Keluarga Besar Ibu Amet",
+      "Keluarga Besar Bapak Dodi Sobandi",
+      "Ibu Rahayu",
+      "Ibu Pipit",
+      "Bapak Ibeng",
+      "Bapak Iki",
     ],
   },
 };

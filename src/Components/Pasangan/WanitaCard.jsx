@@ -27,7 +27,7 @@ const WanitaCard = () => {
         xs:text-3xl
         text-5xl"
       >
-        Dilan Pratama
+        Deliya Listanti
       </h2>
 
       <button
@@ -45,7 +45,7 @@ const WanitaCard = () => {
         text-white"
       >
         <FaInstagram size={18} />
-        Milea Pratiwi
+        Deliya Listanti
       </button>
 
       <p
@@ -60,9 +60,9 @@ const WanitaCard = () => {
         xs:text-sm
         text-base"
       >
-        Putra Pertama dari
+        Putri dari
         <br />
-        Bapak Lorem Dan Ibu Ipsum
+        Bapak Dodi Sobandi Dan Ibu Ela
       </p>
 
     </div>

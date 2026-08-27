@@ -27,7 +27,7 @@ const PriaCard = () => {
         xs:text-3xl
         text-5xl"
       >
-        Dilan Pratama
+        Ate Sopandi
       </h2>
 
       <button
@@ -45,7 +45,7 @@ const PriaCard = () => {
         text-white"
       >
         <FaInstagram size={18} />
-        Dilan Pratama
+        ate sopandi
       </button>
 
       <p
@@ -60,9 +60,9 @@ const PriaCard = () => {
         xs:text-sm
         text-base"
       >
-        Putra Pertama dari
+        Putra dari
         <br />
-        Bapak Lorem Dan Ibu Ipsum
+        Bapak Ujang Saepuloh Dan Ibu Euis (Almrh)
       </p>
 
     </div>

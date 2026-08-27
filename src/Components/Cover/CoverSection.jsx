@@ -123,14 +123,15 @@ backdrop-blur-md
             <h1
               className="
               mt-2
-              font-playfair italic
+              font-playfair 
               text-yellow-500
-              xs:text-[34px]
-              xe:text-[30px]
-              text-xl
-              sm:text-4xl"
+              xs:text-[36px]
+              xe:text-[35px]
+              text-3xl
+              sm:text-4xl
+              font-bold"
             >
-              Milea & Dilan
+              Ate & Deliya
             </h1>
 
             <p

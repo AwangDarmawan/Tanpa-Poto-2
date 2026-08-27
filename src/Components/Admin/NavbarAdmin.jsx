@@ -13,7 +13,9 @@ function NavbarAdmin() {
       ),
     },
     {
-      label: "Pesan",
+      // label: "Pesan",
+      // href: "/admin/pesan",
+        label: "No Pesan",
       href: "/admin/pesan",
       icon: (
         <MessageSquare className="w-5 h-5 sm:w-6 sm:h-6" />

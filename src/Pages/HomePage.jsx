@@ -5,7 +5,7 @@ import PasanganSection from '../Components/Pasangan/PasanganSection'
 import EventSection from '../Components/Akad/EventSection'
 import StorySection from '../Components/Love Story/StorySection'
 import GiftSection from '../Components/Gift/GiftSection'
-import RsvpSection from '../Components/RSVP/RsvpSection'
+// import RsvpSection from '../Components/RSVP/RsvpSection'
 import TurutMengundang from '../Components/Mengundang/TurutMengundang'
 import Closing from '../Components/Closing/Closing'
 import Footer from '../Components/Footer'
@@ -40,7 +40,7 @@ const handleOpenInvitation = () => {
       <EventSection/>
       <StorySection/>
       <GiftSection/>
-      <RsvpSection/>
+      {/* <RsvpSection/> */}
       <TurutMengundang/>
       <Closing/>
       <Footer/>

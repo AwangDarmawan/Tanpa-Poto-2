@@ -23,5 +23,5 @@ export const generateShareText = (name, invitationLink) =>
       `⏰ Waktu        : 08.00 WIB – selesai\n` +
       `📍 Tempat        : Kp. Darungdung RT 03 RW 04, Desa Gudang, Kecamatan Cikalongkulon\n\n` +
       `Wassalamualaikum Warahmatullahi Wabarakatuh\n\n` +
-      `Terima Kasih\nHormat kami,\nATE & DELIYA`
+      `Terima Kasih\nHormat kami,\nM'Boy & DELIYA`
     : "";

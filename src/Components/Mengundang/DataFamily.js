@@ -5,6 +5,7 @@ const DataFamily = {
       "Keluarga Besar Bapak Ujang Saepuloh",
       "Bapak Hasanudin & Ibu Neneng",
       "Bapak Endang",
+      "Bapak Sandi & Ibu Papat",
       "Ibu Murni",
     ],
   },
